@@ -1,6 +1,6 @@
 # 📦 Orders API
 
-API REST em Node.js para gerenciamento de pedidos, desenvolvida como desafio técnico Jitterbit.
+API REST em Node.js para gerenciamento de pedidos
 
 ## 🚀 Tecnologias
 
